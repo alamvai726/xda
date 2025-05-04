@@ -1,0 +1,12 @@
+{
+  "name": "VIDEO-API0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
